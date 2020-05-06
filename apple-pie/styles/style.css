@@ -1,0 +1,25 @@
+* {
+    border: 0;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color:	#483d21;
+}
+
+#page-container {
+    width: 500px;
+    position: relative;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+#header-image {
+    width: 100%;
+}
+
+#header-image img {
+    width: 100%;
+}
